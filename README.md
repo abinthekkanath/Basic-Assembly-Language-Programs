@@ -18,4 +18,5 @@ Here are some of Basic operations using MASM programming Language:
 8>Factorial
 9>Fibonacci Series
 10>Sorting
-11>File Operations
+11>SubString Search
+12>File Operations
