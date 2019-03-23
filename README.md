@@ -6,7 +6,7 @@ The Microsoft Macro Assembler (MASM) is an x86 assembler that uses the Intel syn
 https://en.wikipedia.org/wiki/Microsoft_Macro_Assembler
 
 
-Here are some of Basic operations using MASM programming Language:
+Here are some of Basic operations using Assembly/MASAM programming Language:
 
 1>Word Count
 2>Palindrome Checking
